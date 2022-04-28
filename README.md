@@ -5,9 +5,9 @@
 
 This Capsule allows you to allow your users to setup their own redirections.
 
-![Screenshot 1](docs/screenshot01.png)
+![Screenshot 1](docs/screenshot01-1.png)
 
-![Screenshot 2](docs/screenshot02.png)
+![Screenshot 2](docs/screenshot02-0.png)
 
 ## Installing
 
