@@ -1,0 +1,23 @@
+{
+  "name": "area17/twill-capsule-redirections",
+  "description": "A Twill Capsule to handle application redirections",
+  "homepage": "https://github.com/area17/twill-capsule-redirections",
+  "license": "MIT",
+  "require": {
+    "area17/twill": "^2.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "TwillRedirections\\": "src"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "TwillRedirections\\TwillRedirectionsServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
